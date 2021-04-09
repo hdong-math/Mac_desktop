@@ -14,4 +14,4 @@ npm run serve
 npm run build
 
 #初试化桌面
-[!image](description_images/2021-04-09_162641.png)
+![image](description_images/2021-04-09_162641.png)
