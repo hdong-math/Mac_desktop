@@ -2,18 +2,18 @@
 这是一个基于vue全家桶仿Mac桌面的小项目
 
 # 运行
-//下载依赖
+下载依赖
 
-npm i
+//npm i
 
-//启动开发环境
+启动开发环境
 
-npm run serve
+//npm run serve
 
-//构建
+构建
 
-npm run build
+//npm run build
 
 # 截图
-//初试化桌面
+初试化桌面
 ![image](description_images/2021-04-09_162641.png)
