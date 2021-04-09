@@ -6,7 +6,7 @@
 * 基于localStorage实现壁纸更改
 
 # 线上预览地址
-https://github.com/hdong-math/
+https://hdong-math.github.io/
 
 # 运行
 下载依赖
