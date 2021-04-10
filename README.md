@@ -2,8 +2,9 @@
 这是一个基于vue全家桶仿Mac桌面的小项目
 * vue + iconfont图标完成基本界面
 * 利用vue-layer实现弹框层
-* 利用moment实现时间显示
+* 基于Axios完成音乐播放器
 * 基于localStorage实现壁纸更改
+* 利用moment实现时间显示
 
 # 线上预览地址
 https://hdong-math.github.io/
