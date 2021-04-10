@@ -35,7 +35,7 @@ https://hdong-math.github.io/
 ![image](description_images/2021-04-09_162927.png)
 
 音乐播放器
-![image](description_images/2021-04-10_181639.png)
+![image](description_images/2021-04-10_232318.png)
 
 播放MV
 ![image](description_images/2021-04-10_181700.png)
